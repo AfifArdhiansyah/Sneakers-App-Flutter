@@ -1,4 +1,4 @@
-# test_new_flutter
+# SneakOus App
 
 A new Flutter project.
 
